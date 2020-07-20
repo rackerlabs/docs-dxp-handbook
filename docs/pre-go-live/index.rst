@@ -13,8 +13,8 @@ Experience team to:
 * Write a runbook that outlines the actions that the RAS Digital Experience
   team takes when a an alert is triggered
 
-Your work in the pre-go-live phase of your implementation not only ensures that
-your go-live date is not delayed, but also that your transition smoothly
+Your work in the pre-go-live phase of your implementation ensures that
+your go-live date is not delayed and that you transition smoothly
 into the post-go-live phase of your project.
 
 

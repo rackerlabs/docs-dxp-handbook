@@ -24,10 +24,10 @@ Project identification and creation
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
 The RAS Digital Experience team uses internal Rackspace project management
-tools as well as our ticketing system to track your implementation. Project
+tools, as well as our ticketing system to track your implementation. Project
 identification and creation is an internal milestone associated with
 populating Rackspace product management tools with project tasks.
-There is nothing that you need to do to reach this milestone.
+You don't need to do anything to reach this milestone.
 
 
 Information library data collection

@@ -4,7 +4,7 @@
 Add your teams to APM tooling
 =============================
 
-You can request that the RAS Digital Experience team provides you with
+You can ask the RAS Digital Experience team to provide you with
 read-only access to either AppDynamics or New Relic® so that you can view the
 dashboard and metrics. Because you have read-only access, you must submit
 a ticket to the RAS Digital Experience team to request a change to any
@@ -18,11 +18,11 @@ following information for that person or party:
 * Last name
 * Email address
 
-If you want a third part to be able to create tickets or call Rackspace
+If you want a third party to be able to create tickets or call Rackspace
 Support for help, consider the following guidelines:
 
 * The third party must be added to the Rackspace Customer Portal. If a use
-  is not defined in our system, we cannot provide support, and due to
-  confidentiality we are prevented from providing any kind of information.
-* If a third party is added to the Rackspace Customer Portal, we assume that
+  is not defined in our system, we cannot provide support. Due to
+  confidentiality, we are prevented from providing any kind of information.
+* If you add a third party to the Rackspace Customer Portal, we assume that
   they are also entitled to use pre-purchased consulting hours.

@@ -41,27 +41,27 @@ and return your system to service.
 Runbook contents
 ----------------
 
-During the runbook creation process, Rackspace
+During the runbook creation process, Rackspace performs the following activities:
 
-* Develops an operations runbook in accordance with the transition plan that
+* Develops an operations runbook following the transition plan that
   complies with the following conditions:
 
   * Where a change in law affects a change in policy, this change is discussed
     between both parties in good faith.
-  * The parties shall develop and follow specific procedures, which are set
-    out in the operations runbook, during the term of the contract.
+  * The parties shall develop and follow specific procedures, which are
+    described in the operations runbook, during the term of the contract.
   * The operations runbook describes the procedures to be used to perform the
     services.
   * The operations runbook conforms to Rackspace policies and, where
     reasonably possible, your policies. If there is any discrepancy between the
     operations runbook and this Service Description, the terms of the runbook
     prevail.
-  * Rackspace and you jointly use the operations runbook to enable close
+  * You and Rackspace jointly use the operations runbook to enable close
     cooperation and communication between the parties.
   * The operations runbook includes checkpoint reviews, testing, acceptance,
     and other procedures to ensure the quality of Rackspace performance.
 
-* Performs the services in accordance with your approved operations runbook.
+* Performs the services according to your approved operations runbook.
 
 
 The operations runbook contains the following items, at a minimum:
@@ -81,4 +81,4 @@ The operations runbook contains the following items, at a minimum:
      - On a scale of Tier 1 (critical) to Tier 4 (non-critical), what tier
        is this application?
      - Tier 1 - Critical
-   * - 
+   * -

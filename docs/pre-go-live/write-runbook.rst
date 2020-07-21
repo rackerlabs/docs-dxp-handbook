@@ -81,4 +81,59 @@ The operations runbook contains the following items, at a minimum:
      - On a scale of Tier 1 (critical) to Tier 4 (non-critical), what tier
        is this application?
      - Tier 1 - Critical
-   * -
+   * - Support Hours
+     - Any agreed support hours that must be adhered to
+     - 24x7x365
+
+       08:00 - 18:00 Monday to Friday
+   * - Allowable Maintenance Window
+     - Any pre-agreed maintenance time for this platform or application
+     - On your agreement only or third (3rd) Sunday of the month
+   * - Incident Management Process
+     - Standard incident management process and major incident management
+       process
+     - A hyperlink to the pre-agreed standard and major incident management
+       processes
+   * - Change Management Process
+     - Standard and emergency change advisory board (ECAB) change management
+       processes
+     - A hyperlink to the pre-agreed change and ECAB processes
+   * - Escalation Contacts
+     - Agreed platform/escalation processes
+
+       .. note:: Ensure that you provide an after-hour contact, the times the
+       contact is available, and the time zone.
+     - A hyperlink to the pre-agreed platform/application escalation contacts
+   * - Application Owner
+     - The application owner
+     - Named contact
+   * - Business Owner
+     - The business owner
+     - Named contact
+   * - Logical View
+     - A description of the platform or application
+     - The DummyTest application runs a total of 6 VM servers between LON5 and
+       LON3 data centers with a physical MSSQL backend database based in LON3
+       as active, LON5 as failover.
+   * - Application Dependencies
+     - Any known application dependencies
+     - If application A doesn't function, the search engine in application B
+       doesn't function.
+   * - Infrastructure Scope
+     - Identified and documented infrastructure used within the platform or
+       application
+     - 12345-dummyapp1.company.co.uk
+
+       23456-dummyapp2.company.co.uk
+   * - Monitoring Configuration
+     - Documented URL, port, and server monitoring configuration set up and
+       implementation
+     - A hyperlink to the configuration set up for URL, port, and server
+       monitoring configuration and implementation
+   * - Customer-supplied High Level Design (HLD)
+     - Any additional design documentation supplied by you
+     - An application or platform design document
+   * - Disaster Recover (DR) Process
+     - If the platform or application has DR, a link to the DR process that is
+       maintained by you
+     - A hyperlink to the DR process

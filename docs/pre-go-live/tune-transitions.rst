@@ -11,7 +11,7 @@ can choose to use either AppDynamics or New Relic as your application
 performance monitoring tool. Critical business transactions are the set of
 pages on your site that are more important than others.
 
-For example, you might want to be notified when the **Add to Cart** page
+For example, you might want to receive a notification when the **Add to Cart** page
 doesn't load properly for a customer. Because this page is directly tied
 to revenue, it's critical for you to know when it isn't available. Other
 important pages include the **Login** page and the **Search Results** page.
@@ -19,16 +19,16 @@ important pages include the **Login** page and the **Search Results** page.
 For pages associated with a critical business transaction, the RAS Digital
 Experience team can:
 
-* Add custom alert thresholds that monitor page response time and error rates
+* Add custom alert thresholds that monitor page response time and error rates.
 
-  When the defined threshold is exceeded, a ticket is automatically sent to the
-  RAS Digital Experience team, who consults the runbook for instructions on how
+  When the defined threshold is exceeded, the RAS Digital Experience team
+  automatically receives a ticket, and they consult the runbook for instructions on how
   to proceed.
 
-* Configure a custom dashboard that displays business transaction metrics
+* Configure a custom dashboard that displays business transaction metrics.
 
 * Document runbooks that outline procedures to follow when responding to
-  custom alerts
+  custom alerts.
 
 
 .. note::

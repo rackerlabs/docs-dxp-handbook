@@ -29,8 +29,8 @@ important.
 
 The user transactions that you want to test are up to you, based on your
 business requirements. Rackspace relies on you to identify the transactions
-you want to test and to provide the steps of each transaction. You receive
-a ticket from Rackspace requesting that you define your synthetic monitors.
+you want to test and to provide the steps of each transaction. Rackspace
+sends a ticket requesting that you define your synthetic monitors.
 
 Refer to the following example when you provide Rackspace with documentation
 about the synthetic monitors that you want to create:
@@ -41,7 +41,7 @@ about the synthetic monitors that you want to create:
 
    **Steps**:
 
-     1. Open a browser and navigate to acme.com.
+     1. Open a browser and navigate to **acme.com**.
      2. On the top navigation bar, click **Products > Shirts**.
      3. Review the list of available shirts.
      4. Select a shirt and click **Add to Cart**.
@@ -96,8 +96,8 @@ The following NodeJS example includes the steps identified above:
 
 
 You can sign off on the script before Rackspace deploys it. After you
-approve the script, Rackspace tunes the scripts to remove popups.
+approve, Rackspace tunes the script to remove popup messages.
 
 Rackspace is responsible for the ongoing maintenance of the script. As you make
 changes to the user interface of your site, ensure that you coordinate with
-Rackspace so that your synthetic monitors are updated.
+Rackspace so that Rackspace updates your synthetic monitors.

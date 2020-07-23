@@ -34,7 +34,7 @@ set of steps each time an alert fires:
 * Check the database to determine which queries are running and how much CPU
   time the queries require
 
-Without a runbook, it can take Rackspace much longer to diagnose an issue
+Without a runbook, Rackspace can take much longer to diagnose an issue
 and return your system to service.
 
 
@@ -46,12 +46,12 @@ During the runbook creation process, Rackspace performs the following activities
 * Develops an operations runbook following the transition plan that
   complies with the following conditions:
 
-  * Where a change in law affects a change in policy, this change is discussed
-    between both parties in good faith.
+  * Where a change in law affects a change in policy, both parties discuss
+    this change in good faith.
   * The parties shall develop and follow specific procedures, which are
     described in the operations runbook, during the term of the contract.
-  * The operations runbook describes the procedures to be used to perform the
-    services.
+  * The operations runbook describes the procedures the both parties use to
+    perform the services.
   * The operations runbook conforms to Rackspace policies and, where
     reasonably possible, your policies. If there is any discrepancy between the
     operations runbook and this Service Description, the terms of the runbook
@@ -72,13 +72,68 @@ The operations runbook contains the following items, at a minimum:
    * - Item
      - Description
      - Example
-   * - Hours of Use
-     - The hours that this application is primarily used by you
+   * - Hours of use
+     - The hours that you primarily use this application
      - 24x7x365
 
        09:00 - 17:30 Monday to Friday
-   * - Business Criticality
+   * - Business criticality
      - On a scale of Tier 1 (critical) to Tier 4 (non-critical), what tier
        is this application?
      - Tier 1 - Critical
-   * -
+   * - Support hours
+     - Any agreed support hours that we must adhere to
+     - 24x7x365
+
+       08:00 - 18:00 Monday to Friday
+   * - Allowable maintenance window
+     - Any pre-agreed maintenance time for this platform or application
+     - On your agreement, only or third (3rd) Sunday of the month
+   * - Incident management process
+     - Standard incident management process and major incident management
+       process
+     - A hyperlink to the pre-agreed standard and major incident management
+       processes
+   * - Change management process
+     - Standard and emergency change advisory board (ECAB) change management
+       processes
+     - A hyperlink to the pre-agreed change and ECAB processes
+   * - Escalation contacts
+     - Agreed platform and escalation processes
+
+       .. note:: Ensure that you provide an after-hour contact, the times the
+       contact is available, and the time zone.
+     - A hyperlink to the pre-agreed platform and application escalation contacts
+   * - Application owner
+     - The application owner
+     - Named contact
+   * - Business owner
+     - The business owner
+     - Named contact
+   * - Logical view
+     - A description of the platform or application
+     - The DummyTest application runs a total of six VM servers between LON5 and
+       LON3 data centers with a physical MSSQL backend database based in LON3
+       as active, LON5 as failover.
+   * - Application dependencies
+     - Any known application dependencies
+     - If application A doesn't function, the search engine in application B
+       doesn't function.
+   * - Infrastructure scope
+     - Identified and documented infrastructure used within the platform or
+       application
+     - 12345-dummyapp1.company.co.uk
+
+       23456-dummyapp2.company.co.uk
+   * - Monitoring configuration
+     - Documented URL, port, and server monitoring configuration set up and
+       implementation
+     - A hyperlink to the configuration set up for URL, port, and server
+       monitoring configuration and implementation
+   * - Customer-supplied high-level design (HLD)
+     - Any additional design documentation supplied by you
+     - An application or platform design document
+   * - Disaster Recovery (DR) process
+     - If the platform or application has DR, a link to the DR process that is
+       maintained by you
+     - A hyperlink to the DR process

@@ -5,10 +5,10 @@ Request maintenance
 ===================
 
 You must submit a ticket to request maintenance any time that you expect
-Rackspace to perform work on your application. Maintenance is required when
+Rackspace to work on your application. You need maintenance when
 a change results in downtime or could have an impact on service
 availability. While maintenance is typically associated with deploying code
-or configuration changes, maintenance is also required for small changes,
+or configuration changes, you also need maintenance for small changes,
 including activating and deactivating a user.
 
 When you request maintenance, you must:

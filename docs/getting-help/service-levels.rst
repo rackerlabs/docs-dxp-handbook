@@ -4,8 +4,8 @@
 Service levels
 ==============
 
-Applicable service levels depend on the services that you purchased. Not all
-service levels listed below may be applicable.
+Applicable service levels depend on the services that you purchased. The following
+service levels might not apply.
 
 Incident Response: Requests are categorized into three tiers:
 
@@ -21,7 +21,7 @@ Incident Response: Requests are categorized into three tiers:
 All submitted requests are automatically categorized as **Standard** requests.
 Rackspace responds to your support requests in the timelines listed below.
 
-.. note:: For requests the require an **Urgent** or **Emergency**
+.. note:: For requests that require an **Urgent** or **Emergency**
 classification, call the 24x7x365 support line directly.
 
 RAS Digital Experience does not include any new Service Level Agreements (SLAs)
@@ -30,26 +30,26 @@ to which you subscribe.
 .. list-table::
    :header-rows: 1
 
-   * - Response Times SLA
-     - Service Area
+   * - Response-time SLA
+     - Service area
      - Level
-     - Performance Measure Description
-     - Service Measure
+     - Performance measure description
+     - Service measure
    * - SLA 1.1
      - Incident
-     - Priority 1 Response
+     - Priority 1 response
      - Whole or critical part of the service is unusable, causing major
        business impact
      - 15 minutes
    * - SLA 1.2
      - Incident
-     - Priority 2 Response
+     - Priority 2 response
      - Important but not immediately critical part of the service is unusable,
        causing business impact or more than five users are affected
      - 1 hour
    * - SLA 1.3
      - Incident
-     - Priority 3 Response
+     - Priority 3 response
      - Inconvenient issue affecting fewer than five users
      - 4 hours
 

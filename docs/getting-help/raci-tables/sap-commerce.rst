@@ -12,9 +12,9 @@ for SAP Commerce (Hybris):
    :header-rows: 1
 
    * - Tasks
-     - RAS Digital Experience - Application Installation & Configuration
-     - RAS Digital Experience - Experts Only
-     - RAS Digital Experience - Application Operations
+     - RAS Digital Experience: Application installation and configuration
+     - RAS Digital Experience: Experts only
+     - RAS Digital Experience: Application operations
      - Customer/SI
    * - Provide advisory and consulting services from the SAP Hybris Commerce
        architect and the engineering team

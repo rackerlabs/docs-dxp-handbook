@@ -35,3 +35,5 @@ and you use one or more of the following:
    self
    about-teams.rst
    pre-go-live/index.rst
+   getting-help/index.rst
+   appendix.rst

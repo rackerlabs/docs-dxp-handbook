@@ -30,8 +30,8 @@ Appendix: Terminology
    Relic as your APM tooling.
 
 **Application Support Engineer (ASE)**
-   ASEs are staffed 24x7 and have a broad set of knowledge across all of the
-   named apps supported by RAS Digital Experience.
+   ASEs are staffed 24x7 and have a broad set of knowledge across all the
+   named apps that RAS Digital Experience supports.
 
 **ARIC**
    A logic system that directs the actions of the Rackspace
@@ -45,7 +45,7 @@ Appendix: Terminology
 **Business transaction**
    A logical grouping of related URLs that allows your APM tool to
    consolidate metrics for multiple related pages, such as all
-   Checkout-related pages.
+   checkout-related pages.
 
 **Deployment**
    In the context of working with Rackspace Application Services, deployment
@@ -95,7 +95,7 @@ Appendix: Terminology
 
 **Thread dump**
    A saved snapshot of the execution stack for each JVM thread. Thread dumps
-   allow Rackspace to see what each thread was doing at the time of the
+   enable Rackspace to see what each thread was doing at the time of the
    snapshot. You should take thread dumps when the issue or condition that
    you want to debug is active.
 

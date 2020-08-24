@@ -7,6 +7,8 @@ Onboarding timeline
 This section describes the implementation milestones you reach during the
 first 30 days of working with the RAS Digital Experience team.
 
+.. image:: .../_images/implementation-timeline.png
+
 
 Implementation kickoff meeting completed
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^

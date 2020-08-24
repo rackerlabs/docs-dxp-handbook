@@ -11,8 +11,8 @@ for Java and .NET:
    :header-rows: 1
 
    * - Tasks
-     - RAS Digital Experience - Application Installation & Configuration
-     - RAS Digital Experience - Application Operations
+     - RAS Digital Experience: Application installation and configuration
+     - RAS Digital Experience: Application operations
      - Customer/SI
    * - 24x7x365 access to a team of Application Support Engineers,
        including:
@@ -45,7 +45,7 @@ for Java and .NET:
    * - Application code, including:
          * Custom components and templates
          * Source control
-         * Shared source Sitecore modules from the Marketplace
+         * Shared-source Sitecore modules from the Marketplace
          * Third-party Sitecore modules
      -
      -
@@ -68,7 +68,7 @@ for Java and .NET:
    * - Install and configure APM tools, including:
          * Synthetic and static URL monitoring
          * APM
-         *Other monitoring tools
+         * Other monitoring tools
      - R, A
      -
      -

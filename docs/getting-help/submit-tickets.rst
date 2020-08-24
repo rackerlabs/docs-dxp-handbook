@@ -11,17 +11,17 @@ To create a support ticket or view existing tickets, log in to the
 `Rackspace Customer Portal <https://login.rackspace.com/>`_ and then click
 **Tickets** in the top navigation bar. The Rackspace automated systems also
 create tickets for events on your account that require either your attention
-or the attention of a Rackspace employee. You can also call the 24x7x365
+or a Rackspace employee's attention. You can also call the 24x7x365
 Support team at any time.
 
 Any actionable information needs to reside in a ticket because this is the
-Rackspace system of record to ensure that any issues or requests are fully
-documented from identification to resolution.
+Rackspace system of record to ensure that we fully document any issues or
+requests from identification to resolution.
 
 An example of an action might be as simple as viewing a particular log file
-for data, such as that involved in resolving an application issue, or as
+for data, such as resolving an application issue, or as
 complex as managing an application code release or upgrade. The ticket
-provides the immediate value of centralized information and communication,
+provides the immediate value of centralized information and communication
 while meeting the long-term needs of cross-referencing events for
 correlation or viewing historical activity or decisions that impact the
 application.
@@ -32,20 +32,20 @@ Keep the following guidelines in mind regarding ticket communication:
   communication tools (such as email, Slack, Yammer, and instant messaging)
   offer powerful collaboration functionality and play a role in the timely
   communication of critical information related to an issue, but they are not
-  systems of record nor are they actively monitored. This leads to risks of
-  inaction or missed issues.
+  systems of record nor are they actively monitored. Using these tools for 
+  critical communication leads to the risk of inaction or missed issues.
 
 * If you have questions or require Rackspace assistance, open a ticket in the
-  Rackspace Customer Portal. This ensures that the communication does not get
-  lost in email or isolated to a single individual but is rather supported by
+  Rackspace Customer Portal. Using tickets ensures that communication does not get
+  lost in email or isolated to a single individual. Instead, it's rather supported by
   the team for timely resolution. *If your production system is down or you
   are experiencing a highly urgent and severely disruptive issue, call us
   directly after you submit a ticket.*
 
-* There might be instances in which you and Rackspace need to speak
-  voice-to-voice. If a meeting is required, the Rackspace Customer Success
-  Manager schedules that meeting. Depending on the outcome of the meeting,
-  tickets might be generated to track items for a timely resolution.
+* There might be instances in which you and Rackspace need to speak instead of
+  writing. If a meeting is required, the Rackspace Customer Success
+  Manager schedules that meeting. Depending on the meeting outcome, we
+  might generate tickets to track items for a timely resolution.
 
 * Ongoing roadmap discussions are scheduled with you by the Rackspace
   Account Manager at a regular cadence to discuss any open items and future
@@ -68,13 +68,13 @@ Example tickets
 ---------------
 
 Providing the needed information in a ticket reduces the back-and-forth
-communication with Rackspace that can result in delays in resolving your issue.
+communication with Rackspace, resulting in delays in resolving your issue.
 
 When you create a ticket, ensure that you provide the following information:
 
 * The device or devices that are experiencing the issue
 
-  * The device must be within the scope of your RAS contract
+  * The device must be within the scope of your RAS contract.
   * As a best practice, if you use the Rackspace Customer Portal to manage
     your devices, add a meaningful nickname to each device to help keep them
     organized. For example, for your production website, enter the nickname
@@ -92,7 +92,7 @@ When you create a ticket, ensure that you provide the following information:
   is needed
 
 .. note:: If you request a device restart, indicate which device or devices
-that you want to restart and the time of day that you want the restart to
+you want to restart and the time of day that you want the restart to
 happen. If you have multiple devices to restart, determine whether you want
 a rolling restart where individual devices are restarted separately and in
 sequence.

@@ -19,14 +19,13 @@ specifically:
 The following RACI tables include the following roles and relationships:
 
 * **Responsible**: The party who carries out the process or task assignment
-  and is responsible to get the job done.
+  and is responsible for getting the job done.
 * **Accountable**: The party who is ultimately accountable for the process or
   task being completed appropriately.
 * **Consulted**: Parties who are not directly involved with carrying out the
   task, but who are consulted and might be a stakeholder or subject matter
   expert.
-* **Informed**: Parties who receive output from the process or task or who have
-  a need to stay informed.
+* **Informed**: Parties who receive output from the process or task or need to stay informed.
 
 
 ----

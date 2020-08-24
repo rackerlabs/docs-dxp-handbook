@@ -11,9 +11,9 @@ for Oracle Commerce (ATG):
    :header-rows: 1
 
    * - Tasks
-     - RAS Digital Experience - Application Installation & Configuration
-     - RAS Digital Experience - Experts Only
-     - RAS Digital Experience - Application Operations
+     - RAS Digital Experience: Application installation and configuration
+     - RAS Digital Experience: Experts only
+     - RAS Digital Experience: Application operations
      - Customer/SI
    * - Share guidance from Oracle Commerce Platform architect and engineering
        team

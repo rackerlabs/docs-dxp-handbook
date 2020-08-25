@@ -102,4 +102,4 @@ Appendix: Terminology
 **Transaction snapshot**
    Provides detailed page load data, including a list of the slowest methods
    to execute and errors encountered during page load. Use transaction
-   snapshots for troubleshooting. 
+   snapshots for troubleshooting.

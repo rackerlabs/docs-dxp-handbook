@@ -10,8 +10,9 @@ an alert. The purpose of a runbook is to return your system to service as
 quickly as possible. After your system returns to service, you can work with
 Rackspace to perform root cause analysis to determine the cause of the alert.
 
-.. note:: Runbook procedures do not apply to non-production environments,
-including test, development, and staging environments.
+.. note::
+   Runbook procedures do not apply to non-production environments,
+   including test, development, and staging environments.
 
 
 Why you should write a runbook
@@ -41,7 +42,8 @@ and return your system to service.
 Runbook contents
 ----------------
 
-During the runbook creation process, Rackspace performs the following activities:
+During the runbook creation process, Rackspace performs the following
+activities:
 
 * Develops an operations runbook following the transition plan that
   complies with the following conditions:
@@ -101,8 +103,9 @@ The operations runbook contains the following items, at a minimum:
    * - Escalation contacts
      - Agreed platform and escalation processes
 
-       .. note:: Ensure that you provide an after-hour contact, the times the
-       contact is available, and the time zone.
+       .. note::
+          Ensure that you provide an after-hour contact, the times the
+          contact is available, and the time zone.
      - A hyperlink to the pre-agreed platform and application escalation contacts
    * - Application owner
      - The application owner

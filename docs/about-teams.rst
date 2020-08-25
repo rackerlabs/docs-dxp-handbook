@@ -57,7 +57,7 @@ Time.
 
 
 DevOps and Automation sub-team
-----------------------------
+------------------------------
 
 The DevOps and Automation sub-team is composed of engineers who automate as
 many facets of the application deployment and optimization work as possible.

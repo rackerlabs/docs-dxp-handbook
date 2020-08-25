@@ -23,8 +23,9 @@ transactions, the monitor automatically creates an **Emergency** ticket.
 After Rackspace acknowledges the ticket and tests the Internet
 connections, Rackspace consults the runbook for guidelines.
 
-.. note:: Collaborating with Rackspace to write a runbook is extremely
-important.
+.. note::
+   Collaborating with Rackspace to write a runbook is extremely
+   important.
 
 
 The user transactions that you want to test are up to you, based on your

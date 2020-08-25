@@ -8,33 +8,33 @@ The following table lists service relationships (roles and responsibilities)
 for Java and .NET:
 
 .. list-table::
+   :widths: 25 25 25 25
    :header-rows: 1
 
    * - Tasks
      - RAS Digital Experience: Application installation and configuration
      - RAS Digital Experience: Application operations
      - Customer/SI
-   * - 24x7x365 access to a team of Application Support Engineers,
-       including:
-         * Highly technical .NET experts
-         * Experience in infrastructure management
-         * Active monitoring of complete environment
+   * - Provide 24x7x365 access to a team of Application Support Engineers,
+       including highly technical .NET experts who:
+       * Are experienced in infrastructure management
+       * Provide active monitoring of the complete environment
      -
      - R, A
      -
    * - Environment sizing, including:
-         * Number and name of environments (DEV, QA, PROD)
-         * Number of nodes
-         * Virtual machine CPU and RAM environments
-         * Amount of disk space added
+       * Number and name of environments (DEV, QA, PROD)
+       * Number of nodes
+       * Virtual machine CPU and RAM environments
+       * Amount of disk space added
      -
      - C, I
      - R, A
    * - Define and document initial OS-level requirements, including:
-         * Number and name of environments (DEV, QA, PROD)
-         * Number of nodes
-         * Virtual machine CPU and RAM
-         * Amount of disk space
+       * Number and name of environments (DEV, QA, PROD)
+       * Number of nodes
+       * Virtual machine CPU and RAM
+       * Amount of disk space
      -
      - C, I
      - R, A
@@ -43,10 +43,10 @@ for Java and .NET:
      - C, I
      - R, A
    * - Application code, including:
-         * Custom components and templates
-         * Source control
-         * Shared-source Sitecore modules from the Marketplace
-         * Third-party Sitecore modules
+       * Custom components and templates
+       * Source control
+       * Shared-source Sitecore modules from the Marketplace
+       * Third-party Sitecore modules
      -
      -
      - R, A
@@ -55,9 +55,9 @@ for Java and .NET:
      -
      - R, A
    * - Consult and advise on best practices and standards, including:
-         * Platform security
-         * Scaling
-         * Infrastructure and OS tuning
+       * Platform security
+       * Scaling
+       * Infrastructure and OS tuning
      -
      - R, A
      -
@@ -66,9 +66,9 @@ for Java and .NET:
      - C, I
      - R, A
    * - Install and configure APM tools, including:
-         * Synthetic and static URL monitoring
-         * APM
-         * Other monitoring tools
+       * Synthetic and static URL monitoring
+       * APM
+       * Other monitoring tools
      - R, A
      -
      -
@@ -93,10 +93,10 @@ for Java and .NET:
      - R, A
      -
    * - Create and maintain customer information library and runbook, including:
-         * Known issues
-         * Key monitors (only in RAS Digital Experience for Sitecore)
-         * Long-term architecture and performance plans
-         * Return-to-service instructions
+       * Known issues
+       * Key monitors (only in RAS Digital Experience for Sitecore)
+       * Long-term architecture and performance plans
+       * Return-to-service instructions
      -
      - R, A
      - C, I
@@ -138,11 +138,11 @@ for Java and .NET:
      -
    * - Provide guidance and insight with application monitoring tool data,
        including:
-         * Application performance
-         * Faster root-cause analysis
-         * Business transaction errors
-         * Identify bottlenecks
-         * Average response time metrics
+       * Application performance
+       * Faster root-cause analysis
+       * Business transaction errors
+       * Identify bottlenecks
+       * Average response time metrics
      -
      - R, A
      -
@@ -155,20 +155,23 @@ for Java and .NET:
      - R, A
      -
    * - Provide reporting around the customer experience, including:
-         * Understand how pages are performing over time
-         * Gain insight into the performance of individual pages and requests
-           as experienced by end users
-         * Find the worst-performing pages by multiple common metrics
+       * Understand how pages are performing over time
+       * Gain insight into the performance of individual pages and requests
+         as experienced by end users
+       * Find the worst-performing pages by multiple common metrics
      -
      - R, A
      -
    * - Provide application management toolset, including:
-         * Application performance management
-         * Infrastructure monitoring
-         * Synthetic transaction monitoring
-         * Browser real-user monitoring
-         * Data analytics
-         * Ability to profile Java and .NET
-         * Application performance dashboard
-         * Faster root-cause analysis
-         * Identify bottlenecks
+       * Application performance management
+       * Infrastructure monitoring
+       * Synthetic transaction monitoring
+       * Browser real-user monitoring
+       * Data analytics
+       * Ability to profile Java and .NET
+       * Application performance dashboard
+       * Faster root-cause analysis
+       * Identify bottlenecks
+     -
+     - R, A
+     -

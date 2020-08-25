@@ -21,11 +21,11 @@ into the post-go-live phase of your project.
 ----
 
 .. toctree::
-   :maxdepth: 2
+   :maxdepth: 1
 
    onboarding-timeline.rst
    apm-tooling.rst
    write-runbook.rst
    define-monitor.rst
-   tune-transations.rst
+   tune-transactions.rst
    development-best-practices.rst

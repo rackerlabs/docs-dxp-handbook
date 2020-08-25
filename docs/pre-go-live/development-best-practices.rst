@@ -67,7 +67,7 @@ as GitHub.
 
 The following image illustrates a sample GitHub branching workflow:
 
-.. image:: .../_images/github-workflow.png
+.. image:: _images/github-workflow.png
 
 
 **Standardize your environment**: After you identify a strategy, you should
@@ -149,27 +149,31 @@ Release and deployment
 Consider the following guidelines when you plan your release and deployment
 strategy:
 
-**Deployment**: You, our Named Application Engineers, and our Application Support
-Engineers collaboratively determine the steps to take during a deployment.
-  * By using the requirements gathered during discussions with your team, our
-    Named Application Engineers develop the automation jobs required for your
-    deployments.
-  * The Application Support Engineers use the automation jobs and high-level
-    processes to define deployment templates that provide detailed deployment
-    steps.
-  * The Application Support Engineers use the deployment templates to create
-    maintenance plans for each deployment.
-  * Another ASE reviews the templates to ensure their quality and that there
-    are no anticipatable issues.
-  * An ASE works with your team to deploy your application.
+**Deployment**: You, our Named Application Engineers, and our Application
+Support Engineers collaboratively determine the steps to take during a
+deployment.
+
+* By using the requirements gathered during discussions with your team, our
+  Named Application Engineers develop the automation jobs required for your
+  deployments.
+* The Application Support Engineers use the automation jobs and high-level
+  processes to define deployment templates that provide detailed deployment
+  steps.
+* The Application Support Engineers use the deployment templates to create
+  maintenance plans for each deployment.
+* Another ASE reviews the templates to ensure their quality and that there
+  are no anticipatable issues.
+* An ASE works with your team to deploy your application.
 
 
-**Rollback plan**: If a deployment fails, it is important that you have a documented
-and tested rollback plan in place. Deployments can fail for any of the following issues:
-  * A coding error
-  * A bug or undocumented behavior of a library
-  * An incorrect assumption
-  * An issue with the vendor
+**Rollback plan**: If a deployment fails, it is important that you have a
+documented and tested rollback plan in place. Deployments can fail for
+any of the following issues:
+
+* A coding error
+* A bug or undocumented behavior of a library
+* An incorrect assumption
+* An issue with the vendor
 
 Rollback plans ensure that you can restore the application to a functional
 state, reducing the impact on your end users and preserving your brand image.
@@ -178,15 +182,16 @@ state, reducing the impact on your end users and preserving your brand image.
 organizations maintain a development (DEV) environment and a quality
 assurance (QA) environment. As you promote code or other changes between
 the environments, you should test at each stage.
-  * Developers working in their local environment or workstation should test
-    their changes before pushing the code to the development environment.
-  * Thoroughly test the application in the development environment before you
-    promote it to the QA environment.
-  * Within the QA environment, the QA team should perform regression testing on
-    every aspect of the application. Regression testing ensures that the new
-    features work and that they don't negatively impact existing functionality.
-  * After you promote the new version to the production environment, perform
-    one final test to ensure that your end users don’t experience any issues.
+
+* Developers working in their local environment or workstation should test
+  their changes before pushing the code to the development environment.
+* Thoroughly test the application in the development environment before you
+  promote it to the QA environment.
+* Within the QA environment, the QA team should perform regression testing on
+  every aspect of the application. Regression testing ensures that the new
+  features work and that they don't negatively impact existing functionality.
+* After you promote the new version to the production environment, perform
+  one final test to ensure that your end users don’t experience any issues.
 
 
 Monitor
@@ -213,11 +218,12 @@ Communicate your development timeline
 
 It is critical that you communicate with us about your development pipeline
 and deployment cycles.
-  * If you schedule your releases (preferred), we can add the release schedule
-    to the runbook.
-  * If you cannot develop a scheduled release cycle, coordinate with
-    the RAS Digital Experience team to develop a method by which you
-    communicate when you release changes.
+
+* If you schedule your releases (preferred), we can add the release schedule
+  to the runbook.
+* If you cannot develop a scheduled release cycle, coordinate with
+  the RAS Digital Experience team to develop a method by which you
+  communicate when you release changes.
 
 
 .. note::
@@ -230,5 +236,5 @@ and deployment cycles.
 When your runbook contains detailed information of the transactions we
 monitor and the steps we take to remedy any triggered alerts, Rackspace ASEs
 function as your first-tier response. RAS Digital Experience can effectively
-triage and remediate many issues, which frees your team up to focus on improving
-your business.
+triage and remediate many issues, which frees your team up to focus on
+improving your business.

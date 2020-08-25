@@ -32,7 +32,8 @@ data to calculate the expected peak flow of traffic and perform load testing.
 Refer to the following guidelines when you plan for and execute application
 load testing:
 
-* Many environments can expect a 20-30 percent increase in traffic year over year.
+* Many environments can expect a 20-30 percent increase in traffic year over
+  year.
 * Develop a load testing plan that tests all application functions and tests
   for at least 125 percent of expected peak traffic.
 * Use a load-testing tool that incorporates realistic *think time* to gauge

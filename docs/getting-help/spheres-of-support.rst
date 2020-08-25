@@ -25,13 +25,14 @@ The following RACI tables include the following roles and relationships:
 * **Consulted**: Parties who are not directly involved with carrying out the
   task, but who are consulted and might be a stakeholder or subject matter
   expert.
-* **Informed**: Parties who receive output from the process or task or need to stay informed.
+* **Informed**: Parties who receive output from the process or task or need
+  to stay informed.
 
 
 ----
 
 .. toctree::
-   :maxdepth: 2
+   :maxdepth: 1
 
    raci-tables/java-and-net.rst
    raci-tables/sitecore.rst

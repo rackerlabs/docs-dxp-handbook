@@ -32,12 +32,13 @@ Keep the following guidelines in mind regarding ticket communication:
   communication tools (such as email, Slack, Yammer, and instant messaging)
   offer powerful collaboration functionality and play a role in the timely
   communication of critical information related to an issue, but they are not
-  systems of record nor are they actively monitored. Using these tools for 
+  systems of record nor are they actively monitored. Using these tools for
   critical communication leads to the risk of inaction or missed issues.
 
 * If you have questions or require Rackspace assistance, open a ticket in the
-  Rackspace Customer Portal. Using tickets ensures that communication does not get
-  lost in email or isolated to a single individual. Instead, it's rather supported by
+  Rackspace Customer Portal. Using tickets ensures that communication does
+  not get lost in email or isolated to a single individual. Instead, it's
+  rather supported by
   the team for timely resolution. *If your production system is down or you
   are experiencing a highly urgent and severely disruptive issue, call us
   directly after you submit a ticket.*
@@ -91,8 +92,9 @@ When you create a ticket, ensure that you provide the following information:
 * The contact number of a person that Rackspace can contact if more information
   is needed
 
-.. note:: If you request a device restart, indicate which device or devices
-you want to restart and the time of day that you want the restart to
-happen. If you have multiple devices to restart, determine whether you want
-a rolling restart where individual devices are restarted separately and in
-sequence.
+.. note::
+   If you request a device restart, indicate which device or devices
+   you want to restart and the time of day that you want the restart to
+   happen. If you have multiple devices to restart, determine whether you want
+   a rolling restart where individual devices are restarted separately and in
+   sequence.

@@ -19,8 +19,8 @@ your preference and need for advanced business intelligence and budget.
 
 
 You can choose to only have access to Rackspace experts without the other
-benefits of a fully-managed experience, if you don't want fully-managed services
-and you use one or more of the following:
+benefits of a fully-managed experience, if you don't want fully-managed
+services and you use one or more of the following:
 
 - Sitecore® and  Sitecore Commerce,
 - Adobe® Experience Manager,
@@ -35,5 +35,6 @@ and you use one or more of the following:
    self
    about-teams.rst
    pre-go-live/index.rst
+   post-go-live/index.rst
    getting-help/index.rst
    appendix.rst

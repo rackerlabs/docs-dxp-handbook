@@ -28,4 +28,4 @@ into the post-go-live phase of your project.
    write-runbook.rst
    define-monitor.rst
    tune-transations.rst
-   communicate-development.rst
+   development-best-practices.rst

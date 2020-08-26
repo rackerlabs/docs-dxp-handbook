@@ -23,8 +23,8 @@ for Adobe Experience Manager:
      -
    * - Provide 24x7x365 access to a team of Application Support Engineers,
        including highly technical .NET experts who:
-       * Are experienced in infrastructure management
-       * Provide active monitoring of the complete environment
+          * Are experienced in infrastructure management
+          * Provide active monitoring of the complete environment
      -
      -
      - R, A
@@ -35,10 +35,10 @@ for Adobe Experience Manager:
      - R, A
      -
    * - Determine environment sizing, including:
-       * Number and name of environments (DEV, QA, PROD)
-       * Number of nodes
-       * Virtual machine CPU and RAM requirements
-       * Amount of disk space needed
+          * Number and name of environments (DEV, QA, PROD)
+          * Number of nodes
+          * Virtual machine CPU and RAM requirements
+          * Amount of disk space needed
      -
      - C, I
      - C, I

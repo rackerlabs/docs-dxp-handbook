@@ -35,7 +35,6 @@ Lastly, if you have any general billing or account-related questions, your
 Account Manager can assist you. Open a ticket and state that you have an
 Account Management question.
 
-----
 
 .. toctree::
    :maxdepth: 2

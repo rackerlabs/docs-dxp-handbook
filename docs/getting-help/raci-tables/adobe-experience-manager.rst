@@ -34,7 +34,8 @@ for Adobe Experience Manager:
      - R, A
      - R, A
      -
-   * - Determine environment sizing, including:
+   * - Determine environment sizing,
+       including:
           * Number and name of environments (DEV, QA, PROD)
           * Number of nodes
           * Virtual machine CPU and RAM requirements
@@ -43,30 +44,32 @@ for Adobe Experience Manager:
      - C, I
      - C, I
      - R, A
-   * - Define and document initial OS-level requirements, including:
-       * Mount names
-       * Mount sizes
-       * User setup
+   * - Define and document initial OS-level requirements,
+       including:
+          * Mount names
+          * Mount sizes
+          * User setup
      -
      - C, I
      - C, I
      - R, A
    * - Verify compatibility with the AEM supported environments matrix,
        including:
-       * Operating system
-       * Application server
-       * JVM
-       * Virtualization
+          * Operating system
+          * Application server
+          * JVM
+          * Virtualization
      - R, A
      - R, A
      - R, A
      -
-   * - Develop application code, including:
-       * Custom components and templates
-       * Client libraries
-       * Custom OSGi bundles
-       * Custom workflows
-       * Source control
+   * - Develop application code,
+       including:
+          * Custom components and templates
+          * Client libraries
+          * Custom OSGi bundles
+          * Custom workflows
+          * Source control
      -
      -
      -
@@ -116,10 +119,11 @@ for Adobe Experience Manager:
      - R, A
      - R, A
      - C, I
-   * - Configure AEM user administration, including:
-       * User and group creation and management
-       * SSO
-       * Access control policy management
+   * - Configure AEM user administration,
+       including:
+          * User and group creation and management
+          * SSO
+          * Access control policy management
      -
      -
      -
@@ -139,23 +143,24 @@ for Adobe Experience Manager:
      -
      - R, A
      -
-   * - Provide an environment runbook template, including:
-       * Contacts
-       * Rackspace hosting
-       * Customer
-       * Vendors
+   * - Provide an environment runbook template,
+       including:
+          * Contacts
+          * Rackspace hosting
+          * Customer
+          * Vendors
      -
      -
      - R, A
      -
    * - Provide environment description application server configuration
        procedures, including:
-       * Build process
-       * Monitoring configuration
-       * Application deployment process
-       * Standard deployment
-       * Rollback procedure
-       * Incident reporting
+          * Build process
+          * Monitoring configuration
+          * Application deployment process
+          * Standard deployment
+          * Rollback procedure
+          * Incident reporting
      -
      -
      - R, A
@@ -227,24 +232,25 @@ for Adobe Experience Manager:
      -
    * - Provide guidance and insight with application monitoring tool data,
        including:
-       * Java profile (Heap, CPU, replication queues)
-       * Application performance
-       * Faster root-cause analysis
-       * Business transaction errors
-       * Bottleneck identification
-       * Average response-time metrics
+          * Java profile (Heap, CPU, replication queues)
+          * Application performance
+          * Faster root-cause analysis
+          * Business transaction errors
+          * Bottleneck identification
+          * Average response-time metrics
      -
      -
      - R, A
      -
-   * - Implement and manage AEM maintenance operations, including:
-       * Datastore garbage collection
-       * Workflow purge
-       * Version purge
-       * Tar optimization
-       * Consistency check
-       * Traversal check
-       * Log compression and rotation
+   * - Implement and manage AEM maintenance operations,
+       including:
+          * Datastore garbage collection
+          * Workflow purge
+          * Version purge
+          * Tar optimization
+          * Consistency check
+          * Traversal check
+          * Log compression and rotation
      -
      -
      - R, A
@@ -264,24 +270,26 @@ for Adobe Experience Manager:
      -
      - R, A
      -
-   * - Provide reporting about the customer experience, including:
-       * Understand how pages, Ajax requests, and iframes perform over time
-       * Gain insight into the performance of individual pages and requests
-         as experienced by end users
-       * Find the worst-performing pages by using multiple common metrics
+   * - Provide reporting about the customer experience,
+       including:
+          * Understand how pages, Ajax requests, and iframes perform over time
+          * Gain insight into the performance of individual pages and requests
+            as experienced by end users
+          * Find the worst-performing pages by using multiple common metrics
      -
      -
      - R, A
      -
-   * - Provide application monitoring toolset, including:
-       * Application performance management
-       * Infrastructure monitoring
-       * Synthetic transaction monitoring
-       * Browser real-user monitoring
-       * Data analytics
-       * Application performance dashboard
-       * Fast root-cause analysis
-       * Bottleneck identification
+   * - Provide application monitoring toolset,
+       including:
+          * Application performance management
+          * Infrastructure monitoring
+          * Synthetic transaction monitoring
+          * Browser real-user monitoring
+          * Data analytics
+          * Application performance dashboard
+          * Fast root-cause analysis
+          * Bottleneck identification
      -
      -
      - R, A

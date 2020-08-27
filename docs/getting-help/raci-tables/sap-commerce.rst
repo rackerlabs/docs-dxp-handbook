@@ -35,7 +35,8 @@ for SAP Commerce (Hybris):
      - R, A
      - R, A
      -
-   * - Determine environment sizing, including:
+   * - Determine environment sizing,
+       including:
           * Number and name of environments (DEV, QA, PROD)
           * Number of nodes
           * Virtual machine CPU and RAM requirements
@@ -44,7 +45,8 @@ for SAP Commerce (Hybris):
      - C, I
      - C, I
      - R, A
-   * - Define and document initial OS-level requirements, including:
+   * - Define and document initial OS-level requirements,
+       including:
           * Mount names
           * Mount sizes
           * User setup
@@ -62,7 +64,8 @@ for SAP Commerce (Hybris):
      - R, A
      - R, A
      - C, I
-   * - Define initial application server configuration, including:
+   * - Define initial application server configuration,
+       including:
           * JVM heap sizing
           * Garbage collection tuning parameters
           * Server instance layout
@@ -72,7 +75,8 @@ for SAP Commerce (Hybris):
      - C, I
      - C, I
      - R, A
-   * - Develop application code, including:
+   * - Develop application code,
+       including:
           * Custom components and templates
           * Client libraries
           * Custom workflows
@@ -163,7 +167,8 @@ for SAP Commerce (Hybris):
      -
      - R, A
      -
-   * - Provide environment runbook template, including:
+   * - Provide environment runbook template,
+       including:
           * Contacts
           * Rackspace hosting
           * Customer
@@ -253,7 +258,8 @@ for SAP Commerce (Hybris):
      -
      - R, A
      -
-   * - Provide reporting around the customer experience, including:
+   * - Provide reporting around the customer experience,
+       including:
           * Understand how pages, Ajax requests, and iframes perform over time
           * Gain insight into the performance of individual pages and requests
             as experienced by end users
@@ -262,7 +268,8 @@ for SAP Commerce (Hybris):
      -
      - R, A
      -
-   * - Provide application performance management software, including:
+   * - Provide application performance management software,
+       including:
           * APM tool
           * Infrastructure monitoring tool
           * Synthetic transaction monitoring tool

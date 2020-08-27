@@ -29,11 +29,11 @@ services and you use one or more of the following:
 
 This guide contains the following sections:
 
-- ref:`about_teams`
-- ref:`pre_go_live`
-- ref:`post_go_live`
-- ref:`getting_help`
-- ref:`appendix`
+- :ref:`about_teams`
+- :ref:`pre_go_live`
+- :ref:`post_go_live`
+- :ref:`getting_help`
+- :ref:`appendix`
 
 ----
 

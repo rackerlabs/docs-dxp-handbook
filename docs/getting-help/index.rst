@@ -11,10 +11,10 @@ submit a ticket.
 
 This chapter contains the following sections:
 
-- ref:`who_can_contact`
-- ref:`submit_tickets`
-- ref:`service_levels`
-- ref:`spheres_of_support`
+- :ref:`who_can_contact`
+- :ref:`submit_tickets`
+- :ref:`service_levels`
+- :ref:`spheres_of_support`
 
 
 .. toctree::

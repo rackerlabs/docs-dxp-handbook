@@ -23,8 +23,8 @@ for the Sitecore Experience manager and the Sitecore Experience Commerce team:
      - C, I
    * - Provide 24x7x365 access to a team of Application Support Engineers,
        including highly technical .NET experts who:
-       * Are experienced in infrastructure management
-       * Provide active monitoring of the complete environment
+          * Are experienced in infrastructure management
+          * Provide active monitoring of the complete environment
      -
      -
      - R, A
@@ -39,20 +39,22 @@ for the Sitecore Experience manager and the Sitecore Experience Commerce team:
      - R, A
      - R, A
      -
-   * - Determine environment sizing, including:
-       * Number and name of environments (DEV, QA, PROD)
-       * Number of nodes
-       * Virtual machine CPU and RAM requirements
-       * Amount of disk space needed
+   * - Determine environment sizing,
+       including:
+          * Number and name of environments (DEV, QA, PROD)
+          * Number of nodes
+          * Virtual machine CPU and RAM requirements
+          * Amount of disk space needed
      -
      - C, I
      - C, I
      - R, A
-   * - Define and document initial OS-level requirements, including:
-       * Server naming conventions
-       * Services (IIS) website naming conventions
-       * IIS application naming conventions
-       * Access and security
+   * - Define and document initial OS-level requirements,
+       including:
+          * Server naming conventions
+          * Services (IIS) website naming conventions
+          * IIS application naming conventions
+          * Access and security
      -
      - C, I
      - C, I
@@ -64,18 +66,19 @@ for the Sitecore Experience manager and the Sitecore Experience Commerce team:
      -
    * - Verify compatibility with the Sitecore supported environments matrix,
        including:
-       * Operating system
-       * .NET framework
-       * Virtualization
+          * Operating system
+          * .NET framework
+          * Virtualization
      - R, A
      - R, A
      - R, A
      - C, I
-   * - Develop application code, including:
-       * Custom components and templates
-       * Source control
-       * Shared-source Sitecore modules from the marketplace
-       * Third-party Sitecore modules
+   * - Develop application code,
+       including:
+          * Custom components and templates
+          * Source control
+          * Shared-source Sitecore modules from the marketplace
+          * Third-party Sitecore modules
      -
      -
      -
@@ -85,11 +88,12 @@ for the Sitecore Experience manager and the Sitecore Experience Commerce team:
      -
      -
      - R, A
-   * - Consult and advise on Sitecore best practices and standards, including:
-       * Content delivery horizontal scaling
-       * Content management horizontal scaling
-       * Platform security
-       * Sitecore audits and architecture reviews
+   * - Consult and advise on Sitecore best practices and standards,
+       including:
+          * Content delivery horizontal scaling
+          * Content management horizontal scaling
+          * Platform security
+          * Sitecore audits and architecture reviews
      -
      - R, A
      - R, A
@@ -189,11 +193,12 @@ for the Sitecore Experience manager and the Sitecore Experience Commerce team:
      -
      -
      -
-   * - Provide Sitecore user administration, including:
-       * Group creation
-       * User creation
-       * SSO
-       * Access control
+   * - Provide Sitecore user administration,
+       including:
+          * Group creation
+          * User creation
+          * SSO
+          * Access control
      - R, A
      - R, A
      - R, A
@@ -230,10 +235,10 @@ for the Sitecore Experience manager and the Sitecore Experience Commerce team:
      -
    * - Create and maintain a customer information library and runbook,
        including:
-       * Known issues
-       * Key monitors (only in RAS Digital Experience for Sitecore)
-       * Long-term architecture and performance plans
-       * Return-to-service instructions
+          * Known issues
+          * Key monitors (only in RAS Digital Experience for Sitecore)
+          * Long-term architecture and performance plans
+          * Return-to-service instructions
      - R, A
      -
      -
@@ -321,11 +326,11 @@ for the Sitecore Experience manager and the Sitecore Experience Commerce team:
      -
    * - Provide guidance and insight regarding application monitoring tool
        data, including:
-       * Application performance
-       * Faster root-cause analysis
-       * Business transaction errors
-       * Bottleneck identification
-       * Average response time metrics
+          * Application performance
+          * Faster root-cause analysis
+          * Business transaction errors
+          * Bottleneck identification
+          * Average response time metrics
      -
      -
      - R, A
@@ -365,25 +370,27 @@ for the Sitecore Experience manager and the Sitecore Experience Commerce team:
      - R, A
      - R, A
      -
-   * - Provide reporting about the customer experience, including:
-       * Understand how pages are performing over time
-       * Gain insight into the performance of individual pages and requests
-         as experienced by end users
-       * Find the worst-performing pages by multiple common metrics
+   * - Provide reporting about the customer experience,
+       including:
+          * Understand how pages are performing over time
+          * Gain insight into the performance of individual pages and requests
+            as experienced by end users
+          * Find the worst-performing pages by multiple common metrics
      -
      -
      - R, A
      -
-   * - Provide an application monitoring toolset, including:
-       * Application performance management
-       * Infrastructure monitoring
-       * Synthetic transaction monitoring
-       * Browser real-user monitoring
-       * Data analytics
-       * Java and .NET profiling
-       * Application performance dashboard
-       * Faster root-cause analysis
-       * Bottleneck identification
+   * - Provide an application monitoring toolset,
+       including:
+          * Application performance management
+          * Infrastructure monitoring
+          * Synthetic transaction monitoring
+          * Browser real-user monitoring
+          * Data analytics
+          * Java and .NET profiling
+          * Application performance dashboard
+          * Faster root-cause analysis
+          * Bottleneck identification
      -
      -
      - R, A

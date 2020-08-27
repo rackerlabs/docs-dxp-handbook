@@ -8,7 +8,6 @@ The following table lists service relationships (roles and responsibilities)
 for Java and .NET:
 
 .. list-table::
-   :widths: 25 25 25 25
    :header-rows: 1
 
    * - Tasks
@@ -22,7 +21,8 @@ for Java and .NET:
      -
      - R, A
      -
-   * - Environment sizing, including:
+   * - Environment sizing,
+       including:
           * Number and name of environments (DEV, QA, PROD)
           * Number of nodes
           * Virtual machine CPU and RAM environments
@@ -30,7 +30,8 @@ for Java and .NET:
      -
      - C, I
      - R, A
-   * - Define and document initial OS-level requirements, including:
+   * - Define and document initial OS-level requirements,
+       including:
           * Number and name of environments (DEV, QA, PROD)
           * Number of nodes
           * Virtual machine CPU and RAM
@@ -42,7 +43,8 @@ for Java and .NET:
      -
      - C, I
      - R, A
-   * - Application code, including:
+   * - Application code,
+       including:
           * Custom components and templates
           * Source control
           * Shared-source Sitecore modules from the Marketplace
@@ -54,7 +56,8 @@ for Java and .NET:
      -
      -
      - R, A
-   * - Consult and advise on best practices and standards, including:
+   * - Consult and advise on best practices and standards,
+       including:
           * Platform security
           * Scaling
           * Infrastructure and OS tuning
@@ -65,7 +68,8 @@ for Java and .NET:
      -
      - C, I
      - R, A
-   * - Install and configure APM tools, including:
+   * - Install and configure APM tools,
+       including:
           * Synthetic and static URL monitoring
           * APM
           * Other monitoring tools
@@ -92,7 +96,8 @@ for Java and .NET:
      -
      - R, A
      -
-   * - Create and maintain customer information library and runbook, including:
+   * - Create and maintain customer information library and runbook,
+       including:
           * Known issues
           * Key monitors (only in RAS Digital Experience for Sitecore)
           * Long-term architecture and performance plans
@@ -154,7 +159,8 @@ for Java and .NET:
      -
      - R, A
      -
-   * - Provide reporting around the customer experience, including:
+   * - Provide reporting around the customer experience,
+       including:
           * Understand how pages are performing over time
           * Gain insight into the performance of individual pages and requests
             as experienced by end users
@@ -162,7 +168,8 @@ for Java and .NET:
      -
      - R, A
      -
-   * - Provide application management toolset, including:
+   * - Provide application management toolset,
+       including:
           * Application performance management
           * Infrastructure monitoring
           * Synthetic transaction monitoring

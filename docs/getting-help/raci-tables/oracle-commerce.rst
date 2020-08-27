@@ -35,7 +35,8 @@ for Oracle Commerce (ATG):
      - R, A
      - R, A
      -
-   * - Determine environment sizing, including:
+   * - Determine environment sizing,
+       including:
           * Number and name of environments (DEV, QA, PROD)
           * Number of nodes
           * Virtual machine CPU and RAM requirements
@@ -54,7 +55,8 @@ for Oracle Commerce (ATG):
      - R, A
      - R, A
      - C, I
-   * - Define and document initial OS-level requirements, including:
+   * - Define and document initial OS-level requirements,
+       including:
           * Server naming conventions
           * Drive mount point names and sizing
           * Users and permissions
@@ -64,7 +66,8 @@ for Oracle Commerce (ATG):
      - C, I
      - C, I
      - R, A
-   * - Define initial J2EE application server configuration, including:
+   * - Define initial J2EE application server configuration,
+       including:
           * JVM heap sizing
           * Garbage collection tuning parameters
           * Server instance layout
@@ -80,7 +83,8 @@ for Oracle Commerce (ATG):
      - R, A
      - R, A
      - C, I
-   * - Develop application code, including:
+   * - Develop application code,
+       including:
           * Custom components and templates
           * Client libraries
           * Custom workflows
@@ -134,7 +138,8 @@ for Oracle Commerce (ATG):
      -
      -
      -
-   * - Configure Oracle Commerce Platform user administration, including:
+   * - Configure Oracle Commerce Platform user administration,
+       including:
           * User and group creation and management
           * SSO
           * Access control policy management
@@ -162,7 +167,8 @@ for Oracle Commerce (ATG):
      -
      - R, A
      -
-   * - Provide an environment runbook template, including:
+   * - Provide an environment runbook template,
+       including:
           * Contacts
           * Rackspace hosting
           * Customer
@@ -205,7 +211,8 @@ for Oracle Commerce (ATG):
      -
      -
      - R, A
-   * - Deploy custom code, including\*:
+   * - Deploy custom code,
+       including\*:
           * Deploy code (EAR file) to production by using an automated
             deployment tool
           * Roll back code by using an automated deployment tool
@@ -241,7 +248,8 @@ for Oracle Commerce (ATG):
      - R, A
      - R, A
      -
-   * - Provide guidance and insight with APM tool data, including\*:
+   * - Provide guidance and insight with APM tool data,
+       including\*:
           * Java profile (Heap, CPU, replication queues)
           * Application performance
           * Faster root-cause analysis
@@ -269,7 +277,8 @@ for Oracle Commerce (ATG):
      -
      - R, A
      -
-   * - Provide reporting around the customer experience, including:
+   * - Provide reporting around the customer experience,
+       including:
           * Understand how pages, Ajax requests, and iframes are performing
             over time
           * Gain insight into the performance of individual pages and requests
@@ -279,7 +288,8 @@ for Oracle Commerce (ATG):
      -
      - R, A
      -
-   * - Provide application performance management software, with\*:
+   * - Provide application performance management software,
+       with\*:
           * The ability to profile Java and .NET
           * An application performance dashboard
           * Bottleneck identification

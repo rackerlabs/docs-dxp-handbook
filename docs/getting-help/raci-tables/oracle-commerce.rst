@@ -23,8 +23,8 @@ for Oracle Commerce (ATG):
      -
    * - Provide 24x7x365 access to a team of Application Support Engineers,
        including highly technical .NET experts who:
-       * Are experienced in infrastructure management
-       * Provide active monitoring of the complete environment
+          * Are experienced in infrastructure management
+          * Provide active monitoring of the complete environment
      -
      -
      - R, A
@@ -36,40 +36,40 @@ for Oracle Commerce (ATG):
      - R, A
      -
    * - Determine environment sizing, including:
-       * Number and name of environments (DEV, QA, PROD)
-       * Number of nodes
-       * Virtual machine CPU and RAM requirements
-       * Amount of disk space needed
+          * Number and name of environments (DEV, QA, PROD)
+          * Number of nodes
+          * Virtual machine CPU and RAM requirements
+          * Amount of disk space needed
      -
      - C, I
      - C, I
      - R, A
    * - Verify compatibility with Oracle Commerce Platform-supported
        environments matrix, including:
-       * OS
-       * Application server
-       * JVM
-       * Virtualization
+          * OS
+          * Application server
+          * JVM
+          * Virtualization
      - R, A
      - R, A
      - R, A
      - C, I
    * - Define and document initial OS-level requirements, including:
-       * Server naming conventions
-       * Drive mount point names and sizing
-       * Users and permissions
-       * Sudo management
-       * User groups
+          * Server naming conventions
+          * Drive mount point names and sizing
+          * Users and permissions
+          * Sudo management
+          * User groups
      -
      - C, I
      - C, I
      - R, A
    * - Define initial J2EE application server configuration, including:
-       * JVM heap sizing
-       * Garbage collection tuning parameters
-       * Server instance layout
-       * Session timeout values (if not defined in the application)
-       * Port configurations and instance naming conventions
+          * JVM heap sizing
+          * Garbage collection tuning parameters
+          * Server instance layout
+          * Session timeout values (if not defined in the application)
+          * Port configurations and instance naming conventions
      - R, A
      -
      -
@@ -81,13 +81,13 @@ for Oracle Commerce (ATG):
      - R, A
      - C, I
    * - Develop application code, including:
-       * Custom components and templates
-       * Client libraries
-       * Custom workflows
-       * Source control
-       * Endeca application
-       * ATG configuration layer (ATG-DATA)
-       * Custom code
+          * Custom components and templates
+          * Client libraries
+          * Custom workflows
+          * Source control
+          * Endeca application
+          * ATG configuration layer (ATG-DATA)
+          * Custom code
      -
      -
      -
@@ -135,9 +135,9 @@ for Oracle Commerce (ATG):
      -
      -
    * - Configure Oracle Commerce Platform user administration, including:
-       * User and group creation and management
-       * SSO
-       * Access control policy management
+          * User and group creation and management
+          * SSO
+          * Access control policy management
      -
      -
      -
@@ -163,24 +163,24 @@ for Oracle Commerce (ATG):
      - R, A
      -
    * - Provide an environment runbook template, including:
-       * Contacts
-       * Rackspace hosting
-       * Customer
-       * Vendors
-       * Environment description
-       * Application server configuration
+          * Contacts
+          * Rackspace hosting
+          * Customer
+          * Vendors
+          * Environment description
+          * Application server configuration
      -
      - R, A
      - R, A
      -
    * - Add information to the customer runbook regarding procedures,
        including\*:
-       * Build process
-       * Monitoring configuration
-       * Application deployment process
-       * Standard deployment
-       * Rollback procedure
-       * Incident reporting
+          * Build process
+          * Monitoring configuration
+          * Application deployment process
+          * Standard deployment
+          * Rollback procedure
+          * Incident reporting
      -
      -
      - R, A
@@ -206,12 +206,12 @@ for Oracle Commerce (ATG):
      -
      - R, A
    * - Deploy custom code, including\*:
-       * Deploy code (EAR file) to production by using an automated
-         deployment tool
-       * Roll back code by using an automated deployment tool
-       * Deploy Endeca artifacts and initial baseline
-       * Deploy static content to web servers (if defined and automated)
-       * Perform basic site validation
+          * Deploy code (EAR file) to production by using an automated
+            deployment tool
+          * Roll back code by using an automated deployment tool
+          * Deploy Endeca artifacts and initial baseline
+          * Deploy static content to web servers (if defined and automated)
+          * Perform basic site validation
      -
      -
      - R, A
@@ -242,12 +242,12 @@ for Oracle Commerce (ATG):
      - R, A
      -
    * - Provide guidance and insight with APM tool data, including\*:
-       * Java profile (Heap, CPU, replication queues)
-       * Application performance
-       * Faster root-cause analysis
-       * Business transaction errors
-       * Bottleneck identification
-       * Average response-time metrics
+          * Java profile (Heap, CPU, replication queues)
+          * Application performance
+          * Faster root-cause analysis
+          * Business transaction errors
+          * Bottleneck identification
+          * Average response-time metrics
      -
      -
      - R, A
@@ -270,19 +270,19 @@ for Oracle Commerce (ATG):
      - R, A
      -
    * - Provide reporting around the customer experience, including:
-       * Understand how pages, Ajax requests, and iframes are performing
-         over time
-       * Gain insight into the performance of individual pages and requests
-         as experienced by end users
-       * Find the worst performing pages by using multiple common metrics
+          * Understand how pages, Ajax requests, and iframes are performing
+            over time
+          * Gain insight into the performance of individual pages and requests
+            as experienced by end users
+          * Find the worst performing pages by using multiple common metrics
      -
      -
      - R, A
      -
    * - Provide application performance management software, with\*:
-       * The ability to profile Java and .NET
-       * An application performance dashboard
-       * Bottleneck identification
+          * The ability to profile Java and .NET
+          * An application performance dashboard
+          * Bottleneck identification
      -
      -
      - R, A

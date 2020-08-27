@@ -8,7 +8,7 @@ This section describes the implementation milestones you reach during the
 first 30 days of working with the RAS Digital Experience team.
 
 .. image:: _images/implementation-timeline.png
-   :width: 600
+   :width: 800
 
 
 Implementation kickoff meeting completed

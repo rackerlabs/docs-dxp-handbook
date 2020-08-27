@@ -26,7 +26,8 @@ for Adobe Experience Manager:
 +--------------------------------------------+--------------------------+-------------------------+-------------------------+-------------+
 | Consult on AEM architecture best practices |                          | R, A                    | R, A                    |             |
 +--------------------------------------------+--------------------------+-------------------------+-------------------------+-------------+
-| Determine environment sizing, including:   |                          | C, I                    | C, I                    | R, A        |
+| Determine environment sizing,              |                          | C, I                    | C, I                    | R, A        |
+| including:                                 |                          |                         |                         |             |
 |    * Number and name of environments (DEV, |                          |                         |                         |             |
 |      QA, PROD)                             |                          |                         |                         |             |
 |    * Number of nodes                       |                          |                         |                         |             |
@@ -47,7 +48,8 @@ for Adobe Experience Manager:
 |    * JVM                                   |                          |                         |                         |             |
 |    * Virtualization                        |                          |                         |                         |             |
 +--------------------------------------------+--------------------------+-------------------------+-------------------------+-------------+
-| Develop application code, including:       |                          |                         |                         | R, A        |
+| Develop application code,                  |                          |                         |                         | R, A        |
+| including:                                 |                          |                         |                         |             |
 |    * Custom components and templates       |                          |                         |                         |             |
 |    * Client libraries                      |                          |                         |                         |             |
 |    * Custom OSGi bundles                   |                          |                         |                         |             |

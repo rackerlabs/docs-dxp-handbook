@@ -24,8 +24,8 @@ for SAP Commerce (Hybris):
      -
    * - Provide 24x7x365 access to a team of Application Support Engineers,
        including highly technical .NET experts who:
-       * Are experienced in infrastructure management
-       * Provide active monitoring of the complete environment
+          * Are experienced in infrastructure management
+          * Provide active monitoring of the complete environment
      -
      -
      - R, A
@@ -36,46 +36,46 @@ for SAP Commerce (Hybris):
      - R, A
      -
    * - Determine environment sizing, including:
-       * Number and name of environments (DEV, QA, PROD)
-       * Number of nodes
-       * Virtual machine CPU and RAM requirements
-       * Amount of disk space needed
+          * Number and name of environments (DEV, QA, PROD)
+          * Number of nodes
+          * Virtual machine CPU and RAM requirements
+          * Amount of disk space needed
      -
      - C, I
      - C, I
      - R, A
    * - Define and document initial OS-level requirements, including:
-       * Mount names
-       * Mount sizes
-       * User setup
+          * Mount names
+          * Mount sizes
+          * User setup
      -
      - C, I
      - C, I
      - R, A
    * - Verify compatibility with SAP Hybris Commerce-supported environments
        matrix, including:
-       * Operating system
-       * Application server
-       * JVM
-       * Virtualization
+          * Operating system
+          * Application server
+          * JVM
+          * Virtualization
      - R, A
      - R, A
      - R, A
      - C, I
    * - Define initial application server configuration, including:
-       * JVM heap sizing
-       * Garbage collection tuning parameters
-       * Server instance layout
-       * Session timeout values (if not defined in the application)
-       * Port configurations and instance naming conventions
+          * JVM heap sizing
+          * Garbage collection tuning parameters
+          * Server instance layout
+          * Session timeout values (if not defined in the application)
+          * Port configurations and instance naming conventions
      -
      - C, I
      - C, I
      - R, A
    * - Develop application code, including:
-       * Custom components and templates
-       * Client libraries
-       * Custom workflows
+          * Custom components and templates
+          * Client libraries
+          * Custom workflows
      -
      -
      -
@@ -93,9 +93,9 @@ for SAP Commerce (Hybris):
      -
    * - Consult and advise on SAP Hybris Commerce best practices and standards,
        including:
-       * Environment scalability
-       * Security
-       * Caching (local and CDN)
+          * Environment scalability
+          * Security
+          * Caching (local and CDN)
      -
      - R, A
      - R, A
@@ -112,13 +112,13 @@ for SAP Commerce (Hybris):
      - R, A
    * - Provide an environment for building and deploying application code,
        including:
-       * Install Jenkins continuous integration application
-       * Set up automated process for SQL deployments (iff needed and
-         agreed to)
-       * Install Solr search server
-       * Install Apache with requested plug-ins
-       * Install HUB servers
-       * Install back-office servers
+          * Install Jenkins continuous integration application
+          * Set up automated process for SQL deployments (iff needed and
+            agreed to)
+          * Install Solr search server
+          * Install Apache with requested plug-ins
+          * Install HUB servers
+          * Install back-office servers
      - R, A
      -
      -
@@ -164,22 +164,22 @@ for SAP Commerce (Hybris):
      - R, A
      -
    * - Provide environment runbook template, including:
-       * Contacts
-       * Rackspace hosting
-       * Customer
-       * Vendor
+          * Contacts
+          * Rackspace hosting
+          * Customer
+          * Vendor
      -
      -
      - R, A
      -
    * - Provide environment description application server configuration
        procedures, including:
-       * Build process
-       * Monitoring configuration
-       * Application deployment process
-       * Standard deployment
-       * Rollback procedure
-       * Incident reporting
+          * Build process
+          * Monitoring configuration
+          * Application deployment process
+          * Standard deployment
+          * Rollback procedure
+          * Incident reporting
      -
      -
      - R, A
@@ -221,12 +221,12 @@ for SAP Commerce (Hybris):
      -
    * - Provide guidance and insight with application monitoring tool
        data, including:
-       * Java profile (Heap, CPU, replication queues)
-       * Application performance
-       * Faster root-cause analysis
-       * Business transaction errors
-       * Bottleneck identification
-       * Average response-time metrics
+          * Java profile (Heap, CPU, replication queues)
+          * Application performance
+          * Faster root-cause analysis
+          * Business transaction errors
+          * Bottleneck identification
+          * Average response-time metrics
      -
      -
      - R, A
@@ -254,24 +254,24 @@ for SAP Commerce (Hybris):
      - R, A
      -
    * - Provide reporting around the customer experience, including:
-       * Understand how pages, Ajax requests, and iframes perform over time
-       * Gain insight into the performance of individual pages and requests
-         as experienced by end users
-       * Find the worst performing pages by using multiple common metrics
+          * Understand how pages, Ajax requests, and iframes perform over time
+          * Gain insight into the performance of individual pages and requests
+            as experienced by end users
+          * Find the worst performing pages by using multiple common metrics
      -
      -
      - R, A
      -
    * - Provide application performance management software, including:
-       * APM tool
-       * Infrastructure monitoring tool
-       * Synthetic transaction monitoring tool
-       * Browser real user monitoring tool
-       * Data analytics tool
-       * Ability to profile Java and .NET
-       * Application performance dashboard
-       * Faster root-cause analysis
-       * Bottleneck identification
+          * APM tool
+          * Infrastructure monitoring tool
+          * Synthetic transaction monitoring tool
+          * Browser real user monitoring tool
+          * Data analytics tool
+          * Ability to profile Java and .NET
+          * Application performance dashboard
+          * Faster root-cause analysis
+          * Bottleneck identification
      -
      -
      - R, A

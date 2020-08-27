@@ -1,8 +1,8 @@
 .. _dpx_handbook:
 
-========================================
-RAS Digital Experience Customer Handbook
-========================================
+===============================================================
+RAS Digital Experience Application Operations Customer Handbook
+===============================================================
 
 *Last updated:* |today|
 
@@ -27,10 +27,19 @@ services and you use one or more of the following:
 - SAP® Hybris,
 - Oracle® cCommerce/ATG
 
+This guide contains the following sections:
+
+- ref:`about_teams`
+- ref:`pre_go_live`
+- ref:`post_go_live`
+- ref:`getting_help`
+- ref:`appendix`
+
 ----
 
 .. toctree::
    :maxdepth: 2
+   :hidden:
 
    self
    about-teams.rst

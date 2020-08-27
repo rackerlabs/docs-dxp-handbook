@@ -1,8 +1,8 @@
 .. _high_volume_events:
 
-================================
-Preparing for high volume events
-================================
+==============================
+Prepare for high volume events
+==============================
 
 Use the following considerations and recommendations to plan for high seasonal
 traffic. Your Rackspace Account team and RAS Digital Experience team can work

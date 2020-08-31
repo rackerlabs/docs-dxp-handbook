@@ -37,6 +37,7 @@ Refer to the following example when you provide Rackspace with documentation
 about the synthetic monitors that you want to create:
 
 **Synthetic monitor name**: Add Item to Cart
+
 **Result of transaction**: By the end of this transaction, the user has
 searched for and added an item to the cart.
 

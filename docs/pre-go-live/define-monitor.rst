@@ -36,18 +36,19 @@ sends a ticket requesting that you define your synthetic monitors.
 Refer to the following example when you provide Rackspace with documentation
 about the synthetic monitors that you want to create:
 
-   **Synthetic monitor name**: Add Item to Cart
-   **Result of transaction**: By the end of this transaction, the user has
-   searched for and added an item to the cart.
+**Synthetic monitor name**: Add Item to Cart
 
-   **Steps**:
+**Result of transaction**: By the end of this transaction, the user has
+searched for and added an item to the cart.
 
-     1. Open a browser and navigate to **acme.com**.
-     2. On the top navigation bar, click **Products > Shirts**.
-     3. Review the list of available shirts.
-     4. Select a shirt and click **Add to Cart**.
-     5. To begin the purchasing process, click **Cart**.
-     6. Click **Checkout**.
+**Steps**:
+
+   1. Open a browser and navigate to **acme.com**.
+   2. On the top navigation bar, click **Products > Shirts**.
+   3. Review the list of available shirts.
+   4. Select a shirt and click **Add to Cart**.
+   5. To begin the purchasing process, click **Cart**.
+   6. Click **Checkout**.
 
 
 After you provide the detailed steps to Rackspace, Rackspace creates a

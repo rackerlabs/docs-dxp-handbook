@@ -15,6 +15,11 @@ import sys
 from datetime import datetime
 from os import path
 
+try:
+    from sphinxcontrib import spelling
+except:
+    spelling = None
+
 # If your extensions are in another directory, add it here. If the directory
 # is relative to the documentation root, use os.path.abspath to make it
 # absolute, like shown here.
@@ -33,7 +38,10 @@ extensions = [
     'sphinx.ext.autodoc',
     'sphinx.ext.coverage',
     'sphinx.ext.intersphinx',
-    'sphinx.ext.viewcode'
+    'sphinx.ext.viewcode',
+    'sphinx.ext.githubpages',
+    'sphinx.ext.ifconfig',
+    'sphinx.ext.todo'
 ]
 
 # Add any paths that contain templates here, relative to this directory.
@@ -68,7 +76,7 @@ language = 'en'
 # non-false value, then it is used:
 #today = ''
 # Else, today_fmt is used as the format for a strftime call.
-#today_fmt = '%B %d, %Y'
+today_fmt = '%B %d, %Y'
 
 # List of documents that shouldn't be included in the build.
 #unused_docs = []
@@ -81,7 +89,7 @@ rst_epilog = """
 .. |product name| replace:: RAS Digital Experience
 """
 
-exclude_patterns = ['build']
+exclude_patterns = ['_build', 'samples', 'README.rst']
 
 # List of directories, relative to source directory, that shouldn't be searched
 # for source files.
@@ -213,7 +221,7 @@ html_copy_source = True
 #html_file_suffix = ''
 
 # Output file base name for HTML help builder.
-htmlhelp_basename = 'Rackspace Technology RAS Digital Experience Application Operations Customer Handbook'
+#htmlhelp_basename = 'Rackspace Technology RAS Digital Experience Application Operations Customer Handbook'
 
 
 # Options for LaTeX output

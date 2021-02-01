@@ -16,6 +16,11 @@ from datetime import datetime
 from os import path
 
 try:
+    import sphinx_rtd_theme
+except ImportError:
+    sphinx_rtd_theme = None
+
+try:
     from sphinxcontrib import spelling
 except:
     spelling = None
@@ -304,6 +309,15 @@ coverage_ignore_pyobjects = [
 
 ]
 
+# SCVersioning.
+#scv_banner_greatest_tag = True
+scv_grm_exclude = ('.gitignore', '.nojekyll', 'README.rst')
+scv_show_banner = True
+#scv_banner_recent_tag = True
+svc_banner_main_ref = 'master'
+scv_sort = ('semver', 'time')
+scv_root_ref = 'master'
+svc_priority = 'branches'
 
 # Options for the InterSphinx extension
 # -------------------------------------

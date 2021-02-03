@@ -14,3 +14,9 @@
 [context.deploy-preview]
   publish = "docs/_build/dirhtml"
   command = "cd docs && make clean dirhtml && cd .."
+
+[[redirects]]
+  from = "/*"
+  to = "/docs/dxp-customer-handbook/:splat"
+  status = 301
+  force = false

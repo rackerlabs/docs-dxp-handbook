@@ -1,11 +1,11 @@
 .. _high_volume_events:
 
 ==============================
-Prepare for high volume event
+Prepare for high volume events
 ==============================
 
 Use the following considerations and recommendations to plan for high seasonal
-traffic. Your Rackspace Account team and RAS Digital Experience team can work
+traffic. Your Rackspace Account team and RAS Digital Experience team can wor
 with you to understand and implement these recommendations. They come up with a
 Seasonal Readiness Plan for your environment to ensure that your end users
 are not impacted by poor performance during peak seasonal traffic

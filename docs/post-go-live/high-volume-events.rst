@@ -1,7 +1,7 @@
 .. _high_volume_events:
 
 ==============================
-Prepare for high volume events
+Prepare for high volume event
 ==============================
 
 Use the following considerations and recommendations to plan for high seasonal

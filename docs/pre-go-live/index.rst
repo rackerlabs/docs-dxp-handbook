@@ -14,7 +14,7 @@ Experience team to:
   team takes when an alert is triggered
 
 Your work in the pre-go-live phase of your implementation ensures that
-your go-live date is not delayed and that you transition smoothly
+you don't need to delay your go-live date and that you transition smoothly
 into the post-go-live phase of your project.
 
 
